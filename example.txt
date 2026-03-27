@@ -2,5 +2,3 @@
 HELLO WORLD
 
 ### NJU
-
-### Hello from nju
